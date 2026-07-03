@@ -217,22 +217,16 @@ The dashboard allows decision-makers to monitor inventory performance in real ti
 
 - Demand-Forecasting-Inventory-Optimization/│
 - ├── data/
-- │
 - ├── notebooks/
-- │
 - ├── src/
 - │   ├── data/
 - │   ├── feature_engineering/
 - │   ├── modeling/
 - │   ├── inventory_analysis/
-- │
 - ├── models/
-- │
 - ├── dashboard/
-- │
 - ├── mlruns/
 - ├── requirements.txt
-- │
 - └── README.md
 
 # 📸 Dashboard Preview
