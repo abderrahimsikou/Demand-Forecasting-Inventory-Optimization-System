@@ -1,0 +1,602 @@
+[
+  {
+    "trial_number": 0,
+    "hyperparameters": {
+      "n_estimators": 140,
+      "max_depth": 10,
+      "learning_rate": 0.029106359131330698,
+      "min_samples_split": 13,
+      "min_samples_leaf": 2,
+      "subsample": 0.5779972601681014,
+      "max_features": "log2"
+    },
+    "cv_score": 0.3410025275991037,
+    "cv_scores": [
+      0.34151698655620155,
+      0.34058930678622934,
+      0.3432686663116764,
+      0.33261252413250264,
+      0.34702515420890867
+    ]
+  },
+  {
+    "trial_number": 1,
+    "hyperparameters": {
+      "n_estimators": 230,
+      "max_depth": 3,
+      "learning_rate": 0.08706020878304858,
+      "min_samples_split": 17,
+      "min_samples_leaf": 3,
+      "subsample": 0.5909124836035503,
+      "max_features": null
+    },
+    "cv_score": 0.3477444355184057,
+    "cv_scores": [
+      0.34968426478239734,
+      0.3454074683597541,
+      0.35115239954795363,
+      0.33919213000075965,
+      0.3532859149011638
+    ]
+  },
+  {
+    "trial_number": 2,
+    "hyperparameters": {
+      "n_estimators": 160,
+      "max_depth": 5,
+      "learning_rate": 0.01673808578875214,
+      "min_samples_split": 4,
+      "min_samples_leaf": 3,
+      "subsample": 0.6831809216468459,
+      "max_features": "log2"
+    },
+    "cv_score": 0.330966472234521,
+    "cv_scores": [
+      0.3318995976294916,
+      0.33004333698201627,
+      0.3319607088036616,
+      0.3255178124302873,
+      0.33541090532714846
+    ]
+  },
+  {
+    "trial_number": 3,
+    "hyperparameters": {
+      "n_estimators": 180,
+      "max_depth": 7,
+      "learning_rate": 0.001238513729886093,
+      "min_samples_split": 13,
+      "min_samples_leaf": 2,
+      "subsample": 0.5325257964926398,
+      "max_features": "log2"
+    },
+    "cv_score": 0.09474972035300895,
+    "cv_scores": [
+      0.09166499896479219,
+      0.09703609727689722,
+      0.09434538044820762,
+      0.09629533309685534,
+      0.09440679197829238
+    ]
+  },
+  {
+    "trial_number": 4,
+    "hyperparameters": {
+      "n_estimators": 120,
+      "max_depth": 3,
+      "learning_rate": 0.0233596350262616,
+      "min_samples_split": 10,
+      "min_samples_leaf": 2,
+      "subsample": 0.7475884550556351,
+      "max_features": "log2"
+    },
+    "cv_score": 0.3089816827747154,
+    "cv_scores": [
+      0.3080279952539855,
+      0.311859207796066,
+      0.3067037964862547,
+      0.3063050642617344,
+      0.3120123500755363
+    ]
+  },
+  {
+    "trial_number": 5,
+    "hyperparameters": {
+      "n_estimators": 220,
+      "max_depth": 5,
+      "learning_rate": 0.010968217207529524,
+      "min_samples_split": 12,
+      "min_samples_leaf": 2,
+      "subsample": 0.9847923138822793,
+      "max_features": "log2"
+    },
+    "cv_score": 0.3218188715574596,
+    "cv_scores": [
+      0.3223205821186742,
+      0.3205709181983909,
+      0.3233163540601325,
+      0.3172418926319962,
+      0.32564461077810425
+    ]
+  },
+  {
+    "trial_number": 6,
+    "hyperparameters": {
+      "n_estimators": 200,
+      "max_depth": 10,
+      "learning_rate": 0.0015030900645056826,
+      "min_samples_split": 5,
+      "min_samples_leaf": 1,
+      "subsample": 0.6626651653816322,
+      "max_features": null
+    },
+    "cv_score": 0.1569304539211884,
+    "cv_scores": [
+      0.15748007713188383,
+      0.15739243906792522,
+      0.15619202366828766,
+      0.15582635913064902,
+      0.1577613706071963
+    ]
+  },
+  {
+    "trial_number": 7,
+    "hyperparameters": {
+      "n_estimators": 140,
+      "max_depth": 5,
+      "learning_rate": 0.012172847081122434,
+      "min_samples_split": 4,
+      "min_samples_leaf": 9,
+      "subsample": 0.5372753218398854,
+      "max_features": "sqrt"
+    },
+    "cv_score": 0.3002918384670089,
+    "cv_scores": [
+      0.30079296159683555,
+      0.2990230826474225,
+      0.3041580819277606,
+      0.294492727337883,
+      0.302992338825143
+    ]
+  },
+  {
+    "trial_number": 8,
+    "hyperparameters": {
+      "n_estimators": 50,
+      "max_depth": 9,
+      "learning_rate": 0.025924756604751596,
+      "min_samples_split": 15,
+      "min_samples_leaf": 8,
+      "subsample": 0.5370223258670452,
+      "max_features": null
+    },
+    "cv_score": 0.3199211639087881,
+    "cv_scores": [
+      0.3207851930347362,
+      0.3208107959095968,
+      0.321561543319383,
+      0.31350911706699025,
+      0.32293917021323437
+    ]
+  },
+  {
+    "trial_number": 9,
+    "hyperparameters": {
+      "n_estimators": 210,
+      "max_depth": 5,
+      "learning_rate": 0.0013400367243354798,
+      "min_samples_split": 7,
+      "min_samples_leaf": 4,
+      "subsample": 0.864803089169032,
+      "max_features": "log2"
+    },
+    "cv_score": 0.09623230112666299,
+    "cv_scores": [
+      0.0915940475455641,
+      0.09894964455080824,
+      0.09477713792603237,
+      0.09825622768636066,
+      0.09758444792454957
+    ]
+  },
+  {
+    "trial_number": 10,
+    "hyperparameters": {
+      "n_estimators": 300,
+      "max_depth": 3,
+      "learning_rate": 0.08691089486124963,
+      "min_samples_split": 19,
+      "min_samples_leaf": 6,
+      "subsample": 0.8451235367845726,
+      "max_features": null
+    },
+    "cv_score": 0.3473411356445588,
+    "cv_scores": [
+      0.3492625836028225,
+      0.3450112429687774,
+      0.3500842260574264,
+      0.33984768932682374,
+      0.35249993626694376
+    ]
+  },
+  {
+    "trial_number": 11,
+    "hyperparameters": {
+      "n_estimators": 300,
+      "max_depth": 3,
+      "learning_rate": 0.09888513616343735,
+      "min_samples_split": 20,
+      "min_samples_leaf": 6,
+      "subsample": 0.8321607160939695,
+      "max_features": null
+    },
+    "cv_score": 0.34730732884852533,
+    "cv_scores": [
+      0.34876321633687046,
+      0.3452015898441708,
+      0.3506916544286385,
+      0.33937594676842187,
+      0.35250423686452503
+    ]
+  },
+  {
+    "trial_number": 12,
+    "hyperparameters": {
+      "n_estimators": 300,
+      "max_depth": 3,
+      "learning_rate": 0.0976147267447764,
+      "min_samples_split": 19,
+      "min_samples_leaf": 5,
+      "subsample": 0.9596553740343536,
+      "max_features": null
+    },
+    "cv_score": 0.3472578897377411,
+    "cv_scores": [
+      0.3492129209800642,
+      0.34504131243550806,
+      0.3505114402782451,
+      0.3391419411360953,
+      0.35238183385879296
+    ]
+  },
+  {
+    "trial_number": 13,
+    "hyperparameters": {
+      "n_estimators": 250,
+      "max_depth": 4,
+      "learning_rate": 0.05153790160730297,
+      "min_samples_split": 17,
+      "min_samples_leaf": 7,
+      "subsample": 0.814067831638407,
+      "max_features": null
+    },
+    "cv_score": 0.3466503300756088,
+    "cv_scores": [
+      0.3493609756749434,
+      0.3446498352669026,
+      0.34984943072428953,
+      0.33759572941089644,
+      0.35179567930101197
+    ]
+  },
+  {
+    "trial_number": 14,
+    "hyperparameters": {
+      "n_estimators": 250,
+      "max_depth": 4,
+      "learning_rate": 0.053390375621314164,
+      "min_samples_split": 17,
+      "min_samples_leaf": 5,
+      "subsample": 0.62077746649017,
+      "max_features": "sqrt"
+    },
+    "cv_score": 0.3451916622078253,
+    "cv_scores": [
+      0.34907510906416217,
+      0.34411763109000604,
+      0.3461426230367104,
+      0.3360468238744925,
+      0.3505761239737555
+    ]
+  },
+  {
+    "trial_number": 15,
+    "hyperparameters": {
+      "n_estimators": 270,
+      "max_depth": 7,
+      "learning_rate": 0.05363754859798867,
+      "min_samples_split": 17,
+      "min_samples_leaf": 10,
+      "subsample": 0.7523212630433158,
+      "max_features": null
+    },
+    "cv_score": 0.342610056390306,
+    "cv_scores": [
+      0.3427908612444278,
+      0.34228680425688407,
+      0.3458551566338597,
+      0.33397189497450774,
+      0.3481455648418508
+    ]
+  },
+  {
+    "trial_number": 16,
+    "hyperparameters": {
+      "n_estimators": 270,
+      "max_depth": 4,
+      "learning_rate": 0.004382282365789644,
+      "min_samples_split": 20,
+      "min_samples_leaf": 7,
+      "subsample": 0.8973226820560445,
+      "max_features": null
+    },
+    "cv_score": 0.3149684156040637,
+    "cv_scores": [
+      0.3166999631864219,
+      0.3142772447979899,
+      0.3153274933152195,
+      0.3105256341848074,
+      0.3180117425358798
+    ]
+  },
+  {
+    "trial_number": 17,
+    "hyperparameters": {
+      "n_estimators": 240,
+      "max_depth": 7,
+      "learning_rate": 0.06417298403660505,
+      "min_samples_split": 15,
+      "min_samples_leaf": 4,
+      "subsample": 0.7474826836150311,
+      "max_features": null
+    },
+    "cv_score": 0.34123455487959165,
+    "cv_scores": [
+      0.3419241095782798,
+      0.34042033718305975,
+      0.34335655843532675,
+      0.333454502513999,
+      0.34701726668729294
+    ]
+  },
+  {
+    "trial_number": 18,
+    "hyperparameters": {
+      "n_estimators": 80,
+      "max_depth": 3,
+      "learning_rate": 0.03785389233601085,
+      "min_samples_split": 18,
+      "min_samples_leaf": 6,
+      "subsample": 0.936308508493578,
+      "max_features": "sqrt"
+    },
+    "cv_score": 0.3182154236258572,
+    "cv_scores": [
+      0.3245449717069129,
+      0.321002838834582,
+      0.3148296828823892,
+      0.31299037417562137,
+      0.3177092505297805
+    ]
+  },
+  {
+    "trial_number": 19,
+    "hyperparameters": {
+      "n_estimators": 280,
+      "max_depth": 6,
+      "learning_rate": 0.08907353093432938,
+      "min_samples_split": 15,
+      "min_samples_leaf": 4,
+      "subsample": 0.6886720756736011,
+      "max_features": null
+    },
+    "cv_score": 0.34331362718479186,
+    "cv_scores": [
+      0.34556321064433126,
+      0.3415947156897545,
+      0.346686883332755,
+      0.33504725179793926,
+      0.34767607445917903
+    ]
+  },
+  {
+    "trial_number": 20,
+    "hyperparameters": {
+      "n_estimators": 230,
+      "max_depth": 4,
+      "learning_rate": 0.007123498417990446,
+      "min_samples_split": 10,
+      "min_samples_leaf": 8,
+      "subsample": 0.5002600033352125,
+      "max_features": null
+    },
+    "cv_score": 0.3348297350824666,
+    "cv_scores": [
+      0.33637978815873437,
+      0.33337204062635895,
+      0.33669815098341094,
+      0.3290333429551958,
+      0.33866535268863296
+    ]
+  },
+  {
+    "trial_number": 21,
+    "hyperparameters": {
+      "n_estimators": 300,
+      "max_depth": 3,
+      "learning_rate": 0.09173705932667828,
+      "min_samples_split": 20,
+      "min_samples_leaf": 6,
+      "subsample": 0.8019717912629534,
+      "max_features": null
+    },
+    "cv_score": 0.34753595001917875,
+    "cv_scores": [
+      0.34948754077401245,
+      0.3459165481709241,
+      0.35072874895752226,
+      0.339086512866684,
+      0.352460399326751
+    ]
+  },
+  {
+    "trial_number": 22,
+    "hyperparameters": {
+      "n_estimators": 300,
+      "max_depth": 3,
+      "learning_rate": 0.06868797505268086,
+      "min_samples_split": 20,
+      "min_samples_leaf": 6,
+      "subsample": 0.8140557281133333,
+      "max_features": null
+    },
+    "cv_score": 0.34718829464077744,
+    "cv_scores": [
+      0.34900988095263696,
+      0.3452478712434357,
+      0.3500197710231857,
+      0.3391367548316354,
+      0.3525271951529937
+    ]
+  },
+  {
+    "trial_number": 23,
+    "hyperparameters": {
+      "n_estimators": 270,
+      "max_depth": 4,
+      "learning_rate": 0.03772137672526618,
+      "min_samples_split": 18,
+      "min_samples_leaf": 5,
+      "subsample": 0.8972276294870267,
+      "max_features": null
+    },
+    "cv_score": 0.3469148650160584,
+    "cv_scores": [
+      0.3490775078768209,
+      0.3454963108433292,
+      0.3501351482281544,
+      0.33805386451351604,
+      0.3518114936184713
+    ]
+  },
+  {
+    "trial_number": 24,
+    "hyperparameters": {
+      "n_estimators": 190,
+      "max_depth": 3,
+      "learning_rate": 0.04158898943698804,
+      "min_samples_split": 16,
+      "min_samples_leaf": 7,
+      "subsample": 0.7735475463437137,
+      "max_features": null
+    },
+    "cv_score": 0.34774387155309167,
+    "cv_scores": [
+      0.3497193471109292,
+      0.34574221714007713,
+      0.35056737437906704,
+      0.33963144516931576,
+      0.3530589739660691
+    ]
+  },
+  {
+    "trial_number": 25,
+    "hyperparameters": {
+      "n_estimators": 190,
+      "max_depth": 4,
+      "learning_rate": 0.03675445175372271,
+      "min_samples_split": 16,
+      "min_samples_leaf": 8,
+      "subsample": 0.7756181376989736,
+      "max_features": null
+    },
+    "cv_score": 0.3469028378319445,
+    "cv_scores": [
+      0.3493877176663265,
+      0.34512119062366964,
+      0.34939190709713386,
+      0.3384412401412775,
+      0.35217213363131494
+    ]
+  },
+  {
+    "trial_number": 26,
+    "hyperparameters": {
+      "n_estimators": 170,
+      "max_depth": 3,
+      "learning_rate": 0.020050604069132186,
+      "min_samples_split": 14,
+      "min_samples_leaf": 10,
+      "subsample": 0.6319328669567038,
+      "max_features": "sqrt"
+    },
+    "cv_score": 0.3202511291262177,
+    "cv_scores": [
+      0.3215356832428865,
+      0.31745312382320556,
+      0.3206492374429697,
+      0.3155277757247492,
+      0.3260898253972776
+    ]
+  },
+  {
+    "trial_number": 27,
+    "hyperparameters": {
+      "n_estimators": 210,
+      "max_depth": 6,
+      "learning_rate": 0.044572534797760466,
+      "min_samples_split": 11,
+      "min_samples_leaf": 9,
+      "subsample": 0.7279399718962261,
+      "max_features": null
+    },
+    "cv_score": 0.3443925354294505,
+    "cv_scores": [
+      0.3463800917303107,
+      0.34339266095434595,
+      0.34795210538720756,
+      0.33563932181925704,
+      0.3485984972561311
+    ]
+  },
+  {
+    "trial_number": 28,
+    "hyperparameters": {
+      "n_estimators": 110,
+      "max_depth": 4,
+      "learning_rate": 0.06836055415790711,
+      "min_samples_split": 18,
+      "min_samples_leaf": 7,
+      "subsample": 0.7909791849996579,
+      "max_features": null
+    },
+    "cv_score": 0.3466129320062178,
+    "cv_scores": [
+      0.3489715164902085,
+      0.3449428535380862,
+      0.3500338721570809,
+      0.33800902756030127,
+      0.35110739028541227
+    ]
+  },
+  {
+    "trial_number": 29,
+    "hyperparameters": {
+      "n_estimators": 150,
+      "max_depth": 3,
+      "learning_rate": 0.03126375109974475,
+      "min_samples_split": 2,
+      "min_samples_leaf": 1,
+      "subsample": 0.6053275312111323,
+      "max_features": "sqrt"
+    },
+    "cv_score": 0.3370307039533357,
+    "cv_scores": [
+      0.3366315207695322,
+      0.334840658637095,
+      0.339399932480799,
+      0.33267278904529785,
+      0.3416086188339541
+    ]
+  }
+]

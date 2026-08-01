@@ -1,0 +1,9 @@
+{
+  "n_estimators": 230,
+  "max_depth": 3,
+  "learning_rate": 0.08706020878304858,
+  "min_samples_split": 17,
+  "min_samples_leaf": 3,
+  "subsample": 0.5909124836035503,
+  "max_features": null
+}
